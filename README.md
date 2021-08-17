@@ -1,4 +1,4 @@
-### Hi, I'm [Md Sami](https://mdsami.github.io/) <img src="https://pbs.twimg.com/profile_images/1224790403590901761/sKad_uVR_400x400.jpg" width="25px">
+### Hi, I'm [Md Sami](https://mdsami.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 *An enthusiastic Programmer | Android Developer| Web Developer | Freelancer | Open Source lover*
 
@@ -10,12 +10,12 @@
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 💬 Ask me about Android and Flutter.
 - 📫 How to reach me **mdsami.work@gmail.com**
-- ⚡ Fun fact: I spend almost 2 hours surfing new things in internet everyday. I love to keep myself updated!!
+- ⚡ Fun fact: I spend almost 2 hours surfing & learning new things in internet everyday. I love to keep myself updated!!
 
 ### Me on Internet:
 
 <p><a href="https://twitter.com/mdsami5"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mdsami55/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mdsami5/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-<p><a href="https://www.mdsami.github.io">➡️ Check out my website</a></p>
+<p><a href="https://mdsami.me">➡️ Check out my website</a></p>
 <br />
 <br />
 
