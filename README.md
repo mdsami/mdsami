@@ -5,10 +5,10 @@
 
 ![](https://komarev.com/ghpvc/?username=mdsami&color=brightgreen&style=flat)
 
-- 🌱 I’m currently trying to learn [Jetpack Compose](https://developer.android.com/jetpack/compose) , [Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/) and [Flutter Multiplatform Development ](https://flutter.dev//) .
+- 🌱 I’m currently trying to learn [Global distribution Architecture] , [Golang] ,[Global SAAS] , [Cloud Native Architecture] ,[WSO2] .
 - 🔭 I’m currently working on **some of my side projects :P**
 - 👯 I’m looking to collaborate on **anything free and open source**
-- 💬 Ask me about Android and Flutter.
+- 💬 Ask me about Microservice,AWS, Software Architecture ,and Flutter.
 - 📫 How to reach me **mdsami.work@gmail.com**
 - ⚡ Fun fact: I spend almost 2 hours surfing & learning new things in internet everyday. I love to keep myself updated!!
 
@@ -30,7 +30,9 @@
 
 
 ### Tech Stack:
-
+<img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg" />
+<img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aws.svg" />
 <img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
