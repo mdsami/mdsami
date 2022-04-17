@@ -31,8 +31,9 @@
 
 ### Tech Stack:
 <img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg" />
-<img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aws.svg" />
+<img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+<img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodedotjs.svg" />
+<img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
 <img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="mdsami | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
