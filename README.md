@@ -1,6 +1,6 @@
 ### Hi, I'm [Md Sami](https://mdsami.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-*An enthusiastic Programmer | Android Developer| Web Developer | Freelancer | Open Source lover*
+*Senior Software Engineer (8+ yrs) || Team Lead || DevOps Enthusiast || NodeJS | Flutter || Python | Microservice | Kubernetes || AWS *
 
 
 ![](https://komarev.com/ghpvc/?username=mdsami&color=brightgreen&style=flat)
