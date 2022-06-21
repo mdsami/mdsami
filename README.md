@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/A89UPRWeMbvVhWv8GX/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="250px">
 
 ### Hi, I'm [Md Sami](https://mdsami.github.io/) 
 
