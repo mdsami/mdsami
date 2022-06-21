@@ -1,4 +1,6 @@
-### Hi, I'm [Md Sami](https://mdsami.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/A89UPRWeMbvVhWv8GX/giphy.gif" width="25px">
+
+### Hi, I'm [Md Sami](https://mdsami.github.io/) 
 
 *Senior Software Engineer (8+ yrs) || Team Lead || DevOps Enthusiast || NodeJS | Flutter || Python | Microservice | Kubernetes || AWS *
 
