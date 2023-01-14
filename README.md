@@ -2,7 +2,7 @@
 
 ### Hi, I'm [Md Sami](https://mdsami.github.io/) 
 
-*Senior Software Engineer (8+ yrs) || Team Lead || DevOps Enthusiast || NodeJS | Flutter || Python | Microservice | Kubernetes || AWS *
+* Senior Software Engineer (8+ yrs) Tech Lead | | DevOps Enthusiast | SRE | NodeJS |Android | Flutter | Python | Ansible | Microservices | Kubernetes | AWS *
 
 
 ![](https://komarev.com/ghpvc/?username=mdsami&color=brightgreen&style=flat)
@@ -29,6 +29,12 @@
 <a href="https://github.com/mdsami/mdsami">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsami&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mdsami's GitHub Stats" />
 </a>
+
+--- 
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsami&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsami&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdsami&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ### Tech Stack:
