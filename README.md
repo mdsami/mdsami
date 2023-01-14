@@ -23,14 +23,6 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- <a href="https://github.com/mdsami/mdsami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsami&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-<!-- <a href="https://github.com/mdsami/mdsami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsami&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mdsami's GitHub Stats" />
-</a> -->
-
---- 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsami&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsami&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
