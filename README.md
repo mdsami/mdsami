@@ -2,7 +2,7 @@
 
 ### Hi, I'm [Md Sami](https://mdsami.github.io/) 
 
-* Senior Software Engineer (9+ yrs) Tech Lead | | DevOps Enthusiast | SRE | NodeJS | Golang  | JAVA | Flutter | Python | Ansible | Microservices | Kubernetes | AWS *
+* Senior Software Engineer (9+ yrs) Tech Lead | | DevOps Enthusiast | SRE | NodeJS | Golang  | JAVA | Flutter | Python | Ansible | Microservices | Kubernetes | AWS | Azure *
 
 
 ![](https://komarev.com/ghpvc/?username=mdsami&color=brightgreen&style=flat)
