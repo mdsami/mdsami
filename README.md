@@ -10,7 +10,7 @@
 - 🌱 I’m currently trying to learn [Global distribution Architecture] , [Golang] ,[Global SAAS] , [Cloud Native Architecture] ,[WSO2] .
 - 🔭 I’m currently working on **some of my side projects :P**
 - 👯 I’m looking to collaborate on **anything free and open source**
-- 💬 Ask me about Microservice,AWS, Software Architecture ,and Flutter.
+- 💬 Ask me about Microservice, AWS,Azure, GCP Software Architecture, DevOps  and Flutter.
 - 📫 How to reach me **mdsami.work@gmail.com**
 - ⚡ Fun fact: I spend almost 2 hours surfing & learning new things in internet everyday. I love to keep myself updated!!
 
